@@ -15,5 +15,5 @@ This Repository contains all the learnings of my AI in Automation R&D. Along wit
 - Model Context Protocol (MCP) is a framework/server that connects LLM(s) to real-world-tools (like browsers, databases, APIs).
 - It allows LLM(s) to send commands to these tools and get results.
 - Think of MCP as a bridge between the LLM and your computer/tools.
-- There are n number of MCPs readily available on the internet
+- There are n number of MCPs readily available on the internet, both `database-related` as well as `browser-related`.
 - `Example:` If you write a prompt in Chat GPT: "Write me a playwright-python automation code that will visit www.google.com and after successful navigation validate the URL", the LLM [Chat GPT] will only be able to write the code for you. In order to execute that code, you will be needing an Agent, who with the help of the MCP server will be running this LLM generated code.
