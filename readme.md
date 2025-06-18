@@ -19,4 +19,5 @@ This Repository contains all the learnings of my AI in Automation R&D. Along wit
 - `Example:` If you write a prompt in Chat GPT: "Write me a playwright-python automation code that will visit www.google.com and after successful navigation validate the URL", the LLM [Chat GPT] will only be able to write the code for you. In order to execute that code, you will be needing an Agent, who with the help of the MCP server will be running this LLM generated code.
 
 > Examples of what MCP can do:
-- 
+- Browser Automation:
+    - Open a website, fill a form, click a
