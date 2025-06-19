@@ -20,4 +20,5 @@ This Repository contains all the learnings of my AI in Automation R&D. Along wit
 
 > Examples of what MCP can do:
 - Browser Automation:
-    - Open a website, fill a form, click a
+    - Open a website, fill a form, click a button.
+    - Done via tools like Selenium MCP or Playwright MCP.
