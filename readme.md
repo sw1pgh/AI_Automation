@@ -26,4 +26,4 @@ This Repository contains all the learnings of my AI in Automation R&D. Along wit
     - Connect to MySQL or PostgreSQL and run queries.
     - Doen via PostgreSQL MCP or MySQL MCP.
 - API Requests:
-    - Send or receive
+    - Send or receive API responses.
