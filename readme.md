@@ -7,3 +7,6 @@ This Repository contains all the learnings of my AI in Automation R&D. Along wit
 - LLM: Large Language Model -> Tools/Service/System trained with huge sets of data.
 - Agent: An Agent is a system or program that takes instructions from an LLM and performs real-world tasks using external tools. It acts as a helper that `"does"` things the LLM cannot do on it's own.
 - MCP: Model Context Protocol
+
+> Task Flow:
+- User --> [Prompt] --> `LLM` --> `Agent` --> `MCP` --> [Action Execution]
