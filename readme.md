@@ -4,5 +4,5 @@ This Repository contains all the learnings of my AI in Automation R&D. Along wit
 <br />
 
 > AI Terminologies:
-- LLM: Large Language Model
+- LLM: Large Language Model -> Tools/Service/System trained with huge sets of data.
 - MCP: Model Context Protocol
