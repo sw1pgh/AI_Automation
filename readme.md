@@ -10,3 +10,6 @@ This Repository contains all the learnings of my AI in Automation R&D. Along wit
 
 > Task Flow:
 - User --> [Prompt] --> `LLM` --> `Agent` --> `MCP` --> [Action Execution]
+
+> What is MCP?
+- 
