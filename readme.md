@@ -12,4 +12,4 @@ This Repository contains all the learnings of my AI in Automation R&D. Along wit
 - User --> [Prompt] --> `LLM` --> `Agent` --> `MCP` --> [Action Execution]
 
 > What is MCP?
-- 
+- Model Context Protocol (MCP) is a framework
