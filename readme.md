@@ -12,4 +12,5 @@ This Repository contains all the learnings of my AI in Automation R&D. Along wit
 - User --> [Prompt] --> `LLM` --> `Agent` --> `MCP` --> [Action Execution]
 
 > What is MCP?
-- Model Context Protocol (MCP) is a framework that connects LLM 
+- Model Context Protocol (MCP) is a framework that connects LLM(s) to real-world-tools (like browsers, databases, APIs).
+- 
