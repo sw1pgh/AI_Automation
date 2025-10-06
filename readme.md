@@ -27,4 +27,4 @@ This Repository contains all the learnings of my AI in Automation R&D. Along wit
     - Doen via PostgreSQL MCP or MySQL MCP.
 - API Requests [API -> Application Programming Interface]:
     - Send or receive API responses.
-    - Handled by API-related MCP to get real-time results
+    - Handled by API-related MCP to get real-time results.
